@@ -1,2 +1,2 @@
 # owoGuide
-An unofficial guide to setup and use owoGuide
+An unofficial guide to setup and use owoTrack
